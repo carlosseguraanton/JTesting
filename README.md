@@ -8,7 +8,7 @@ Para ejecutar el test necesitamos seguir las siguientes instrucciones:
 1. Realizamos una copia local del repositorio.
 
    `$ git clone https://github.com/carlosseguraanton/JTesting.git`
-   
+
 2. Cambiamos nuestra ubicación a la carpeta del proyecto.
 
     `$ cd JTesting`
