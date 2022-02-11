@@ -1,7 +1,10 @@
 # JTesting
-Trabajo Práctico 1 tercera evaluación Entornos de Desarrollo
+Trabajo Práctico 1
+Tercera evaluación
+Entornos de Desarrollo
 
-Para poder llevar a dcabo las pruebas necesitaremos del fichero.jar de JUnit que se puede descargar desde la página oficial de maven. https://mvnrepository.com/artifact/junit/junit/4.8.1
+Para poder llevar a cabo las pruebas unitarias necesitaremos usar el fichero.jar de JUnit que podemos descargar desde el sitio web oficial de maven:
+https://mvnrepository.com/artifact/junit/junit/4.8.1
 
 Git clone:
 
